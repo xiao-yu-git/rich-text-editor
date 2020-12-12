@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scrollbars="none">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_14sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_16sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_18sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_20sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_22sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_24sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_26sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_28sp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            style="@style/SizeToolItemStyle"
+            android:src="@drawable/font_size_30sp" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</HorizontalScrollView>

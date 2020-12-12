@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RichTextEditor">
-        <activity android:name="com.xiaoyu.rich_text_editor_demo.MainActivity">
+        <activity android:name="com.xiaoyu.rich_text_editor_demo.MainActivity"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -38,7 +38,9 @@ captures/
 
 # IntelliJ
 *.iml
+.idea/name
 .idea/compiler.xml
+.idea/inspectionProfiles
 .idea/jarRepositories.xml
 .idea/misc.xml
 .idea/workspace.xml

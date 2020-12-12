@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tool_view_size">44dp</dimen>
+
+    <dimen name="window_radius">5dp</dimen>
+    <dimen name="pointer_width">8dp</dimen>
+    <dimen name="window_padding_size">5dp</dimen>
+
+    <dimen name="line_padding">30dp</dimen>
+
+    <dimen name="window_margin">10dp</dimen>
+
+    <dimen name="tool_item_container_margin_window">3dp</dimen>
+</resources>
